@@ -24,3 +24,31 @@
 
 }
 
+/* -- footer */
+
+.social-networks{
+
+    text-align: center;
+
+}
+
+.social-networks li {
+
+    display:inline;
+
+}
+
+.social-networks i {
+
+    font-size: 180%;
+    margin: 1%;
+    padding: 3%;
+    color: #979797;
+
+}
+
+.social-networks i:hover {
+
+    color: White;
+    
+}
