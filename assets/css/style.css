@@ -7,6 +7,7 @@
 .bg-muse {
 
     background-color: rgb(53, 53, 53);
+
 }
 
 .navbar-nav .nav-item .nav-link {
@@ -24,11 +25,73 @@
 
 }
 
-/* -- footer */
+/* -- Main image -- */
+
+html, body {
+
+    overflow-x: hidden;
+
+}
+
+.main-image {
+
+    height: 100vh;
+
+   background: url('../images/muse-background.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.opaque-overlay {
+
+    position: absolute;
+    top: 50;
+    left: 50;
+    height: 100%;
+    width: 100%;
+   
+}
+
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
+
+/* -- callout -- */
+
+.jumbotron {
+
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.jumbotron-header {
+
+    font-family: 'IBM Plex Sans', sans-serif;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.jumbotron .lead {
+
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin: 25px 0;
+    color: white;
+}
+
+
+
+/* -- footer -- */
 
 .social-networks{
 
     text-align: center;
+    padding: 0;
+    margin: 0;
 
 }
 
@@ -42,7 +105,7 @@
 
     font-size: 180%;
     margin: 1%;
-    padding: 3%;
+    padding: 2%;
     color: #979797;
 
 }
