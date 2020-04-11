@@ -150,4 +150,32 @@ html, body {
 
 }
 
+/* -- gallery -- */
 
+.title-media {
+
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: white;
+    padding: 20px;
+
+}
+
+.video-player {
+
+    padding: 30px;
+
+}
+
+.media-player {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.pictures {
+
+    padding: 20px;
+    padding-bottom: 40px;
+
+}
