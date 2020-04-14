@@ -10,6 +10,12 @@
 
 }
 
+.current a {
+
+    text-decoration: underline !important;
+    
+}
+
 .navbar-nav .nav-item .nav-link {
 
     font-family: 'IBM Plex Sans', sans-serif;
@@ -24,6 +30,7 @@
     color: white;
 
 }
+
 
 /* -- Main image -- */
 
