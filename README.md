@@ -11,14 +11,14 @@ to find out about them, get a taste for their music, and then if they like it to
 
 This is a wireframe mock up that I designed at the beginning of this section for the project. [Download Wireframe Here](https://f46ea3ff-2f95-40a7-882c-ac0d118f3012.ws-eu01.gitpod.io/files/download/?id=a7b0abc3-ed76-4543-a88f-49217a638dd6)
 
-*Can also view this PDF in the GitHub Repository*
+*You can also view this PDF in the GitHub Repository*
 
 ## Features
 
-* Homepage that allows users to recognise what website they are on.
+* Homepage that allows the users to recognise what website they are on.
 * About page that tells users about the Band.
-* Gallery Page gives the users small examples of Muse's music and pictures.
-* Subscribe page that allows users to subscribe to all the lastest news.
+* Gallery Page that gives the users a small example of Muse's music and pictures.
+* Subscribe page that allows the users to subscribe to all the lastest news.
  
 ### Features Left to Implement
 
@@ -50,7 +50,7 @@ Also to note that the form on the subscribe page does not work at the moment as 
 ## Deployment
 
 * The Project is deployed on GitHub pages see link here. [Muse MS1 Project Pages](https://djacura.github.io/Muse/)
-* Also see the Link the the GitHub Repository here. [Muse MS1 Project Repository](https://github.com/djacura/Muse)
+* Also see the Link for the GitHub Repository here. [Muse MS1 Project Repository](https://github.com/djacura/Muse)
 
 ## Credits
 
