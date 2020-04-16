@@ -16,7 +16,7 @@ This is a wireframe mock up that I designed at the beginning of this section for
 ## Features
 
 * Homepage that allows the users to recognise what website they are on.
-* About page that tells users about the Band.
+* About page that tells the users about the Band.
 * Gallery Page that gives the users a small example of Muse's music and pictures.
 * Subscribe page that allows the users to subscribe to all the lastest news.
  
