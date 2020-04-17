@@ -62,8 +62,8 @@ html, body {
 .opaque-overlay {
 
     position: absolute;
-    top: 50;
-    left: 50;
+    margin-top: 50px;
+    margin-left: 50px;
     height: 100%;
     width: 100%;
    
