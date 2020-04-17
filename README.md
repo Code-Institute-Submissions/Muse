@@ -9,7 +9,7 @@ and a subscribe page to sign up to recieve all the latest Muse news.
 I wanted to create this website to have a place where fans of the Band could go or anyone that was interested in the band
 to find out about them, get a taste for their music, and then if they like it to subscribe to keep up to date with them.
 
-This is a wireframe mock up that I designed at the beginning of this section for the project. [Download Wireframe Here](https://f46ea3ff-2f95-40a7-882c-ac0d118f3012.ws-eu01.gitpod.io/files/download/?id=a7b0abc3-ed76-4543-a88f-49217a638dd6)
+This is a wireframe mock up that I designed at the beginning of this section for the project. [Download Wireframe Here](https://github.com/djacura/Muse/raw/master/assets/wireframe/Wireframe-PDF.pdf)
 
 *You can also view this PDF in the GitHub Repository*
 
